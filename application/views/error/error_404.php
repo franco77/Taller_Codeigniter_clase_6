@@ -1,0 +1,1 @@
+<h1>código personalizado para el error 404</h1>
